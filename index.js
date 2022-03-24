@@ -1,7 +1,7 @@
 const fs = require('fs');
 const http = require('http');
 const url = require('url');
-const  replaceTemplate = require('./final/modules/replaceTemplate.js')
+const  replaceTemplate = require('final/modules/replaceTemplate.js')
 
 
 //using synchronous as code gets to be called once
